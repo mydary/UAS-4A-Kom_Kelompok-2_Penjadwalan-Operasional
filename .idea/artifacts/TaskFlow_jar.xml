@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaskFlow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskFlow_jar</output-path>
+    <root id="archive" name="TaskFlow.jar">
+      <element id="module-output" name="TaskFlow" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-j-9.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/itextpdf-5.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/flatlaf-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
